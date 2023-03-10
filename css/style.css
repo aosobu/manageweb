@@ -107,23 +107,23 @@ svg {
 }
 
 .fw-bold {
-  font-weight: var(--fw-bold);
+  font-weight: 700;
 }
 
 .fw-semi-bold {
-  font-weight: var(--fw-semi-bold);
+  font-weight: 500;
 }
 
 .fw-regular {
-  font-weight: var(--fw-regular);
+  font-weight: 400;
 }
 
 .fs-primary-heading {
-  font-size: var(--fs-primary-heading);
+  font-size: 3.5rem;
 }
 
 .fs-secondary-heading {
-  font-size: var(--fs-secondary-heading);
+  font-size: 2.5rem;
 }
 
 .fs-300 {
